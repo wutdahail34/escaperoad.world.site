@@ -53,11 +53,6 @@ export default async function Home() {
                 <p className="mb-6">
                     {t('play.description')}
                 </p>
-                <FullscreenIframe
-                    thumbnailSrc="/img/s11080.jpg"
-                    src="https://azgames.io/game/escape-road/"
-                    title="Escape Road Gameplay"
-                />
             </section>
 
             <section id="introduction" className="bg-gray-800 p-6 rounded-xl shadow-lg">
